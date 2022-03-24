@@ -1,0 +1,13 @@
+body {
+    background-image: url('https://wallpaperaccess.com/full/47879.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+td, th, h3 {
+    color: white;
+}
+
+.prolado {
+    margin-left: 130px;
+}
